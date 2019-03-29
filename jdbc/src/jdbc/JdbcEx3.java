@@ -1,3 +1,5 @@
+package jdbc;
+
 /*
 select 구문 : ResultSet executeQuery()
 그외 sql 구문 : int executeUpdate()

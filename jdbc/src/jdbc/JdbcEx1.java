@@ -1,3 +1,5 @@
+package jdbc;
+
 /*
 jdbc
 1. java.sql 패키지
